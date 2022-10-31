@@ -1,0 +1,202 @@
+[
+  {
+    "Option a": "Breadth test and depth test",
+    "Option b": "Confirmation testing",
+    "Question: ": "Which methodology is used to perform Maintenance testing?",
+    "Correct Ans ": "a",
+    "Option c": "Retesting",
+    "Option d": "Sanity testing"
+  },
+  {
+    "Option a": "Test Case",
+    "Option b": "Requirements Traceability Matrix [RTM]",
+    "Question: ": "Which of the following is not part of the Test document?",
+    "Correct Ans ": "d",
+    "Option c": "Test strategy",
+    "Option d": "Project Initiation Note [PIN]"
+  },
+  {
+    "Option a": "Testing Phase",
+    "Option b": "Requirement Phase",
+    "Question: ": "Which of the following is not a valid phase of SDLC (Software Development Life Cycle)?",
+    "Correct Ans ": "d",
+    "Option c": "Deployment phase",
+    "Option d": "Testing closure"
+  },
+  {
+    "Option a": "Structural testing",
+    "Option b": "Error guessing technique",
+    "Question: ": "Which of the following testing is also known as white-box testing?",
+    "Correct Ans ": "a",
+    "Option c": "Design based testing",
+    "Option d": "None of the above"
+  },
+  {
+    "Option a": "White box and black box testing",
+    "Option b": "White-box testing",
+    "Question: ": "Which of the following testing is related to the boundary value analysis?",
+    "Correct Ans ": "c",
+    "Option c": "Black box testing",
+    "Option d": "None of the above"
+  },
+  {
+    "Option a": "Integration testing",
+    "Option b": "Unit testing",
+    "Question: ": "What are the different levels of Testing?",
+    "Correct Ans ": "d",
+    "Option c": "System testing",
+    "Option d": "All of the above"
+  },
+  {
+    "Option a": "Testing Planning",
+    "Option b": "Requirement Gathering",
+    "Question: ": "Which of the following is not a part of STLC (Software Testing Life Cycle)?",
+    "Correct Ans ": "b",
+    "Option c": "Test Design",
+    "Option d": "Testing closure"
+  },
+  {
+    "Option a": "User's end",
+    "Option b": "Developer's end",
+    "Question: ": "In which environment we can performed the Alpha testing?",
+    "Correct Ans ": "b",
+    "Option c": "User's and developer's end",
+    "Option d": "None of the above"
+  },
+  {
+    "Option a": "Schedule",
+    "Option b": "Risk",
+    "Question: ": "Which of the below is not a part of the Test Plan?",
+    "Correct Ans ": "c",
+    "Option c": "Incident reports",
+    "Option d": "Entry and exit criteria"
+  },
+  {
+    "Option a": "Design Errors",
+    "Option b": "Interface Errors",
+    "Question: ": "What is the key objective of Integration testing?",
+    "Correct Ans ": "b",
+    "Option c": "Procedure Errors",
+    "Option d": "None of the mentioned"
+  },
+  {
+    "Option a": "Experience-based Test Design Technique",
+    "Option b": "White Box Test Design Technique",
+    "Question: ": "Exploratory testing is a ----- ?",
+    "Correct Ans ": "a",
+    "Option c": "Black Box Test Design Technique",
+    "Option d": "Grey Box Test Design Technique"
+  },
+  {
+    "Option a": "Product is old",
+    "Option b": "Developers are super",
+    "Question: ": "Does the customer get a 100% bug-free product?",
+    "Correct Ans ": "c",
+    "Option c": "The testing team is not good",
+    "Option d": "All of the above"
+  },
+  {
+    "Option a": "Defect Report",
+    "Option b": "Test Summary Report",
+    "Question: ": "Which Test Document is used to define the Exit Criteria of Testing?",
+    "Correct Ans ": "d",
+    "Option c": "Test Case",
+    "Option d": "Test Plan"
+  },
+  {
+    "Option a": "White-box testing",
+    "Option b": "Grey box testing",
+    "Question: ": "Which testing technique is used for usability testing?",
+    "Correct Ans ": "c",
+    "Option c": "Black Box testing",
+    "Option d": "Combination of all"
+  },
+  {
+    "Option a": "User's and developer's end",
+    "Option b": "Developer's end",
+    "Question: ": "In which environment we can performed the Beta testing?",
+    "Correct Ans ": "c",
+    "Option c": "User's end",
+    "Option d": "None of the above"
+  },
+  {
+    "Option a": "After the coding phase",
+    "Option b": "After designing phase",
+    "Question: ": "After which phase, we can proceed to the white box testing?",
+    "Correct Ans ": "a",
+    "Option c": "After SRS creation",
+    "Option d": "After the installation phase"
+  },
+  {
+    "Option a": "Structural testing",
+    "Option b": "Behavioral testing",
+    "Question: ": "Which of the following is not another name of white box testing?",
+    "Correct Ans ": "b",
+    "Option c": "Glass box testing",
+    "Option d": "None of the mentioned"
+  },
+  {
+    "Option a": "Test type",
+    "Option b": "Test Level",
+    "Question: ": "\"V\" model is?",
+    "Correct Ans ": "d",
+    "Option c": "Test design technique",
+    "Option d": "Software development testing (SDLC) model"
+  },
+  {
+    "Option a": "Regression Testing",
+    "Option b": "Adhoc Testing",
+    "Question: ": "Which of the below testing is executed without documentation and planning is known as?",
+    "Correct Ans ": "b",
+    "Option c": "Unit Testing",
+    "Option d": "None of the above"
+  },
+  {
+    "Option a": "Unit Testing",
+    "Option b": "Black-box Testing",
+    "Question: ": "Which of the below testing is related to Non-functional testing?",
+    "Correct Ans ": "c",
+    "Option c": "Performance Testing",
+    "Option d": "None of the above"
+  },
+  {
+    "Option a": "Boundary value analysis",
+    "Option b": "Code path analysis",
+    "Question: ": "Which of the below testing is related to black-box testing?",
+    "Correct Ans ": "a",
+    "Option c": "Basic path testing",
+    "Option d": "None of the above"
+  },
+  {
+    "Option a": "The faults have been fixed",
+    "Option b": "All the tests run",
+    "Question: ": "When we have to stop the testing?",
+    "Correct Ans ": "d",
+    "Option c": "The time completed",
+    "Option d": "The risk is resolved"
+  },
+  {
+    "Option a": "Grey box testing",
+    "Option b": "Black box testing",
+    "Question: ": "-------- testing is used to check the code?",
+    "Correct Ans ": "c",
+    "Option c": "White-box testing",
+    "Option d": "Red box testing"
+  },
+  {
+    "Option a": "Beta testing",
+    "Option b": "White-box testing",
+    "Question: ": "Which of the following testing is also called Acceptance testing?",
+    "Correct Ans ": "a",
+    "Option c": "Grey box testing",
+    "Option d": "Alpha testing"
+  },
+  {
+    "Option a": "White-box testing",
+    "Option b": "Grey box testing",
+    "Question: ": "What is component testing?",
+    "Correct Ans ": "a",
+    "Option c": "Black box testing",
+    "Option d": "Both a & c"
+  }
+]
