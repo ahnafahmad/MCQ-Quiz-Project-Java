@@ -15,7 +15,6 @@
  ```
 1. Add Quiz
 2. Start Quiz
-
  ```
  ### What can the Project look like 
  - Here the Admin's part,
@@ -44,7 +43,6 @@ Admin> a
 
 System: Quiz saved at the database. Do you want to add more? (y/n)
 if user press y, then the previous scenario will happen again otherwise the program will be closed.
-
  ```
  
  - Here the User's part
@@ -60,14 +58,12 @@ User> a
 System> Correct!
 else not correct,
 System: Not correct
-
  ```
  
  ## Data Format Sample
 - Finally 5 different random questions will appear from your question database. At least add 15 questions from any category from testing.
  ```
 Result: You got [correct_marks] out of 5
-
  ```
  - JSON Format 
  ```
@@ -89,6 +85,5 @@ Result: You got [correct_marks] out of 5
 "answer":"c"
 }
 ]
-
  ```
 
